@@ -1,2 +1,2 @@
 # HTML_CSS_Projects
-View this layout projects click here>>https://layout-html-css-by-tithi.netlify.app/
+View this layout projects click here>>https:project3-by-tithi.netlify.app
